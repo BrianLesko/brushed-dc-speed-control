@@ -1,5 +1,6 @@
 # Speed Control of a Brushed DC motor
 This code implements speed control of a DC motor
+
 ![Preview](docs/preview.jpg)
 
 &nbsp;

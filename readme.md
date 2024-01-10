@@ -1,5 +1,5 @@
 # Speed Control of a Brushed DC motor
-This code implements speed control of a DC motor
+This code and associated hardware implements speed control of a DC motor. Written in micro Python, implemented on an Arduino Nano, and using a BJT transistor
 
 ![Preview](docs/preview.jpg)
 
